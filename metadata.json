@@ -1,0 +1,8 @@
+{
+  "name": "NIVELAPP",
+  "description": "An AI-powered adaptive study platform to prepare for the San Francisco University of Quito (USFQ) entrance exam (PAA). It features AI-generated lessons, examples, and gamified quizzes tailored to the student's learning pace across the complete verbal and mathematical syllabus.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
